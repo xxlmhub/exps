@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # @userVersion : python 3.7
-# @Author  : xxlm
+# @Author  : xxlmhub
 # @Data    : 2023/7/12
 # @Effect  : 大华智慧园区综合管理平台任意文件上传漏洞利用
 # @Version : V1.0
